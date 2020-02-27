@@ -1,0 +1,5 @@
+dim name,age
+name="xiaoming"'字符串要用"包起来",否则为空
+age=18
+msgbox name'msgbox输出窗口
+msgbox age
