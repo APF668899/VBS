@@ -1,0 +1,4 @@
+'msgbox "i love u"
+rem msgbox "i dont love u"
+'在前面加“'”或者rem
+msgbox "i dont love u,too"
