@@ -1,0 +1,15 @@
+'与,或逻辑运算符
+dim a,b
+a = int(inputbox("Please enter a number greater than 10"))
+b = int(inputbox("Please enter a number greater than 20"))
+if a>10 and b>20 then
+msgbox "right",vbokcancel,1.1
+else
+msgbox "not right",vbokcancel,1.2
+end if
+
+if a>10 or b>20 then 
+msgbox "right",vbokcancel,2.1
+else
+msgbox "not right",vbokcancel,2.2
+end if
